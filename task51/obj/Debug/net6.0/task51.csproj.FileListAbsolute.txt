@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/s7/task51/bin/Debug/net6.0/task51
+/Users/macbook/Desktop/s7/task51/bin/Debug/net6.0/task51.deps.json
+/Users/macbook/Desktop/s7/task51/bin/Debug/net6.0/task51.runtimeconfig.json
+/Users/macbook/Desktop/s7/task51/bin/Debug/net6.0/task51.dll
+/Users/macbook/Desktop/s7/task51/bin/Debug/net6.0/task51.pdb
+/Users/macbook/Desktop/s7/task51/obj/Debug/net6.0/task51.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/s7/task51/obj/Debug/net6.0/task51.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/s7/task51/obj/Debug/net6.0/task51.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/s7/task51/obj/Debug/net6.0/task51.AssemblyInfo.cs
+/Users/macbook/Desktop/s7/task51/obj/Debug/net6.0/task51.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/s7/task51/obj/Debug/net6.0/task51.dll
+/Users/macbook/Desktop/s7/task51/obj/Debug/net6.0/refint/task51.dll
+/Users/macbook/Desktop/s7/task51/obj/Debug/net6.0/task51.pdb
+/Users/macbook/Desktop/s7/task51/obj/Debug/net6.0/task51.genruntimeconfig.cache
+/Users/macbook/Desktop/s7/task51/obj/Debug/net6.0/ref/task51.dll
